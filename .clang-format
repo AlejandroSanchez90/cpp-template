@@ -1,1 +1,7 @@
 BreakBeforeBraces: Allman
+ColumnLimit: 80
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+AlignConsecutiveAssignments: true
+AlignTrailingComments: true
